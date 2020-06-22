@@ -1,5 +1,5 @@
 # http and https need separate rules if you don't force_ssl!
-http://www.sundayparty.sg/* https://www.instagram.com/sundayparty.sg/ 301!
-httpd://www.sundayparty.sg/* https://www.instagram.com/sundayparty.sg/ 301!
-http://sundayparty.sg/* https://www.instagram.com/sundayparty.sg/ 301!
-httpd://sundayparty.sg/* https://www.instagram.com/sundayparty.sg/ 301!
+http://www.sundayparty.sg/* https://www.instagram.com/wickedberrie/ 301!
+httpd://www.sundayparty.sg/* https://www.instagram.com/wickedberrie/ 301!
+http://sundayparty.sg/* https://www.instagram.com/wickedberrie/ 301!
+httpd://sundayparty.sg/* https://www.instagram.com/wickedberrie/ 301!
